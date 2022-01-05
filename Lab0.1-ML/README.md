@@ -5,7 +5,9 @@ This lab will give a quick example-based introduction to basic ideas in machine 
 
 ## Slides and video recording
 
-[Slides-ELMED219-2022-MachineLearning]() _TBA_
+[Slides-ELMED219-2022-MachineLearning](https://docs.google.com/presentation/d/e/2PACX-1vQ2uQxh_762gMfnIncJdppsy6cHvEEx0WqePzBVmBUGQKvaHyMJhyWApApbssVmvQkXma4yNkaK1f1O/pub?start=false&loop=false&delayms=3000) 
+
+[PDF-slides-ELMED219-2022-MachineLearning](../assets/PDF-slides/6-ELMED219-2022-Lab0-MachineLearning.pdf) 
 
 [Video-ELMED219-2022-MachineLearning]() _TBA_
 
