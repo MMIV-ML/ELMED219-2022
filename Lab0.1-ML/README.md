@@ -9,7 +9,9 @@ This lab will give a quick example-based introduction to basic ideas in machine 
 
 [PDF-slides-ELMED219-2022-MachineLearning](../assets/PDF-slides/6-ELMED219-2022-Lab0-MachineLearning.pdf) 
 
-[Video-ELMED219-2022-MachineLearning]() _TBA_
+Video-ELMED219-2022-MachineLearning
+
+> Here's a short extra video that goes through a very similar notebook to the one we use in this lab: https://www.youtube.com/watch?v=OhxUgFNnj1U. You may want to watch this as well. 
 
 ## Jupyter notebooks
 
