@@ -1,4 +1,4 @@
-# Lab 1: Medical health records and natural language processing
+# Lab 1: Structured medical health records and machine learning
 
 This lab will discuss the construction of predictive models based on structured data stored in electronic health records.
 
