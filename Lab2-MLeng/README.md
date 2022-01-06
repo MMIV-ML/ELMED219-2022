@@ -1,4 +1,4 @@
-# Lab 2: Practical machine learning and machine learning engineering
+# Lab 2: Natural language processing
 
 _Description TBA_
 
