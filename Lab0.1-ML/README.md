@@ -15,6 +15,10 @@ Video-ELMED219-2022-MachineLearning
 
 ## Jupyter notebooks
 
+As Jupyter Notebook is quite new to many of you, you may want to skim through some tutorials. Here are two (also linked under "Getting Started" at MittUiB): 
+* https://jupyter-notebook-beginner-guide.readthedocs.io/en/latest/index.html
+* https://www.datacamp.com/community/tutorials/tutorial-jupyter-notebook
+
 ---
 
 | Notebook    |      1-Click Notebook      |
