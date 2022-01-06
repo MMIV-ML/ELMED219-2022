@@ -39,7 +39,11 @@ dependencies:
 # To activate the elmed219-img conda environment:
 # conda activate elmed219-img
 
+# To update the elmed29-img conda environment:
+# conda env update -f environment-img.yml
+
 # To remove and reinstall the elmed219-img environment (if installation problems):
 # conda deactivate
 # conda env remove -n elmed219-img
-# conda env update
+# conda env create -f environment-img.yml
+
