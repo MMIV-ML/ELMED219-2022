@@ -1,6 +1,6 @@
 # Lab 1: Medical health records and natural language processing
 
-This lab will discuss the construction of predictive models based on structured and structured data stored in electronic health records.
+This lab will discuss the construction of predictive models based on structured data stored in electronic health records.
 
 _More details to be added_
 
