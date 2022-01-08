@@ -12,6 +12,6 @@ _TBA_
 
 | Notebook    |      1-Click Notebook      |
 |:----------|------|
-|  [ELMED219-2021-Lab1-LengthOfStay.ipynb](https://nbviewer.org/github/MMIV-ML/ELMED219-2022/blob/main/Lab1-EHR/ELMED219-2021-Lab1-LengthOfStay.ipynb)  <br>steps through a simple example of machine learning based on structured health information. | [![Google Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/MMIV-ML/ELMED219-2022/blob/main/Lab1-EHR/ELMED219-2021-Lab1-LengthOfStay.ipynb)|
+|  [ELMED219-2022-Lab1-LengthOfStay.ipynb](https://nbviewer.org/github/MMIV-ML/ELMED219-2022/blob/main/Lab1-EHR/ELMED219-2022-Lab1-LengthOfStay.ipynb)  <br>steps through a simple example of machine learning based on structured health information. | [![Google Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/MMIV-ML/ELMED219-2022/blob/main/Lab1-EHR/ELMED219-2022-Lab1-LengthOfStay.ipynb)|
 
 
