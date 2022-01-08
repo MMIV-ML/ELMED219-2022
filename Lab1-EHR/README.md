@@ -10,8 +10,5 @@ _TBA_
 
 ## Jupyter Notebooks
 
-* `ELMED219-2021-Lab1-LengthOfStay.ipynb` goes through a simple example of machine learning based on structured health information.
+* `ELMED219-2021-Lab1-LengthOfStay.ipynb` steps through a simple example of machine learning based on structured health information.
 
-## Your turn!
-
-_TBA_
