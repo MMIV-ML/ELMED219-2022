@@ -15,5 +15,5 @@ ELMED219-2022-Lab2-video
 
 | Notebook    |      1-Click Notebook      |
 |:----------|------|
-|  ELMED219-2022-Lab2-NLP.ipynb  <br>introduces natural language processing and text classification. | [![Google Colab](https://colab.research.google.com/assets/colab-badge.svg)]()|
+|  [ELMED219-2022-Lab2-NLP.ipynb](https://nbviewer.org/github/MMIV-ML/ELMED219-2022/blob/main/Lab2-NLP/ELMED219-2021-Lab2-NLP-1-medical_tweets.ipynb)  <br>introduces natural language processing and text classification. | [![Google Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/MMIV-ML/ELMED219-2022/blob/main/Lab2-NLP/ELMED219-2021-Lab2-NLP-1-medical_tweets.ipynb)|
 
