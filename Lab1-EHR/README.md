@@ -1,6 +1,6 @@
 # Lab 1: Structured medical health records and machine learning
 
-This lab will discuss the construction of predictive models based on structured data stored in electronic health records. The lab is meant to both increase your knowledge and experience in machine learning and to discuss the possibilities and challenges of advanced analytics based on electronic data from health records and similar.
+This lab will discuss the construction of predictive models based on structured data stored in electronic health records. The lab is meant to both increase your knowledge and experience in machine learning and to discuss the possibilities and challenges of advanced analytics based on electronic data from health records and similar sources.
 
 
 ## Slides and video recordings
