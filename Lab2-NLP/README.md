@@ -1,6 +1,6 @@
 # Lab 2: Natural language processing
 
-_Description TBA_
+In this lab we'll learn about _natural language processing_. That is, the analysis and synthesis of natural language using computers. This is one of the major focus areas for machine learning, and an area that has seen many striking results over the past few years.
 
 ## Slides and video recordings
 
