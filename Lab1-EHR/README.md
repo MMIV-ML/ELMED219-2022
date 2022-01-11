@@ -9,7 +9,7 @@ This lab will discuss the construction of predictive models based on structured 
 
 [ELMED219-2022-Lab1-Lab2-PDF-slides](../assets/PDF-slides/7-ELMED219-2022-Lab1-Lab2-EHR_and_NLP.pdf)
 
-ELMED219-2022-Lab1-video
+[ELMED219-2022-Lab1-video](https://youtu.be/aa3bZmZ70dI)
 
 
 ## Jupyter Notebooks
