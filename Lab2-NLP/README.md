@@ -8,7 +8,7 @@ In this lab we'll learn about _natural language processing_. That is, the analys
 
 [ELMED219-2022-Lab1-Lab2-PDF-slides](../assets/PDF-slides/7-ELMED219-2022-Lab1-Lab2-EHR_and_NLP.pdf)
 
-ELMED219-2022-Lab2-video
+[ELMED219-2022-Lab2-video](https://youtu.be/TbqOJ_V3rnY)
 
 
 ## Jupyter Notebooks
