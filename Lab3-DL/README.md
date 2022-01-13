@@ -13,7 +13,7 @@ The main takeaway and learning outcome is that
 
 [ELMED219-2022-Lab3-Video-Introduction](https://youtu.be/XK41kp85Cw4)
 
-[ELMED219-2022-Lab3-Video-Examples](TBA)
+[ELMED219-2022-Lab3-Video-Examples](https://youtu.be/XMSr519a5kg)
 
 
 ## Jupyter Notebooks
