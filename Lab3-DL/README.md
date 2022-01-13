@@ -9,7 +9,11 @@ The main takeaway and learning outcome is that
 
 ## Slides and video recordings
 
-_TBA_
+[ELMED219-2022-Lab3-PDF-slides](../assets/PDF-slides/8-ELMED219-2022-Lab3-DeepLearning.pdf)
+
+[ELMED219-2022-Lab3-Video-Introduction](https://youtu.be/XK41kp85Cw4)
+
+[ELMED219-2022-Lab3-Video-Examples](TBA)
 
 
 ## Jupyter Notebooks
