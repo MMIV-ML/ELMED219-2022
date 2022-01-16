@@ -6,7 +6,7 @@ The tutorial notebook shows how to construct a training workflow of a **multi-la
 
 - _Obtain pre-defined biologically/clinically significant subregions of a brain tumor from multiparametric 3D MRI recordings using supervised learning with 3D convolutional deep neural networks_, i.e.
 
-### Multilabel tumor segmentation:  y ≈ f(X;𝜃)
+### Multilabel tumor segmentation:  _y_ ≈ f(X;𝜃)
 
 #### Data _X_:
 
