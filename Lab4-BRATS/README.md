@@ -6,9 +6,9 @@ The tutorial notebook shows how to construct a training workflow of a **multi-la
 
 - _Obtain pre-defined biologically/clinically significant subregions of a brain tumor from multiparametric 3D MRI recordings using supervised learning with 3D convolutional deep neural networks_, i.e.
 
-### Multilabel tumor segmentation:  $y  \approx f(X; \theta)$
+### Multilabel tumor segmentation:  y ≈ f(X;𝜃)
 
-#### Data $X$:
+#### Data _X_:
 
 In our case we are using multiparametric magnetic resonance images ([mp-MRI](https://en.wikipedia.org/wiki/MRI_sequence)) recordings from previous BraTS challenges openly available in the **Medical Segmentation Decathlon** ([MSD](https://arxiv.org/abs/2106.05735)) repository (http://medicaldecathlon.com) as `Task01_BrainTumor.tar` (see also https://decathlon-10.grand-challenge.org).
 
@@ -18,11 +18,11 @@ and T2 Fluid-Attenuated Inversion Recovery (FLAIR). The corresponding target ROI
 three tumor sub-regions, namely edema, enhancing, and non-enhancing tumor. This data set was
 selected due to the challenge of locating these complex and heterogeneously-located targets. The
 data was acquired from 19 different institutions and contained a subset of the data used in the
-[2016](https://www.smir.ch/BRATS/Start2016) and [here](https://paperswithcode.com/dataset/brats-2016) and [2017](https://www.med.upenn.edu/sbia/brats2017.html) Brain Tumor Segmentation (BraTS) challenges [12, 13, 14].
+[2016](https://www.smir.ch/BRATS/Start2016) and [here](https://paperswithcode.com/dataset/brats-2016) and [2017](https://www.med.upenn.edu/sbia/brats2017.html) Brain Tumor Segmentation (BraTS) challenges.
 
 There are a total of 740 4D volumes available, 484 four-channel MRI images (`imagesTr` folder) with corresponding multi-label images (`labelsTr`) available for training, and 266 mpMRI recordings (no corresponding labels provided) in the `ìmagesTs`folder. The provided data are distributed after their pre-processing, i.e. co-registered to the same anatomical template, interpolated to the same resolution (1 mm$^3$) and skull-stripped. 
 
-#### Labels and classes $y$:
+#### Labels and classes _y_:
 
 In this challenge we have the following **labels** for the data:
   - label 0 is non-tumor
