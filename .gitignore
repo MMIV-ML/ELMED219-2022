@@ -14,3 +14,9 @@ __pycache__/
 
 # Data
 # data/
+
+# Lab4-BRATS (elmed219-brats environment)
+Lab4-BRATS/src/nnunet
+Lab4-BRATS/src/batchgenerators
+Lab4-BRATS/src/hd-bet
+Lab4-BRATS/src/brats-toolkit

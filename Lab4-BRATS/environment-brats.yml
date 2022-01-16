@@ -1,0 +1,58 @@
+name: elmed219-brats
+channels:
+  - conda-forge
+  - pytorch
+dependencies:
+  - python==3.8
+  - jupyter
+  - ipython
+  - ipykernel
+  - jupyterlab
+  - psutil
+  - numpy
+  - pandas
+  - scipy
+  - matplotlib
+  - seaborn
+  - statsmodels
+  - imageio
+  - scikit-image
+  - pytorch
+  - torchvision
+  - tensorboard
+  - git
+  - pip
+  - pip:
+    # MONAI https://monai.io/
+    - 'monai-weekly[all]'  # [nibabel, skimage, pillow, tensorboard, gdown, ignite, torchvision, itk, tqdm, lmdb, psutil]
+    # nnU-Net  https://github.com/MIC-DKFZ/nnUNet
+    - -e git+https://github.com/MIC-DKFZ/nnUNet#egg=nnUNet
+    # BraTS-Toolkit  # https://github.com/neuronflow/BraTS-Toolkit-Source.git
+    - -e git+https://github.com/neuronflow/BraTS-Toolkit-Source.git@master#egg=brats_toolkit
+    # batchgenerators   # https://github.com/MIC-DKFZ/batchgenerators
+    - -e git+https://github.com/MIC-DKFZ/batchgenerators#egg=batchgenerators
+    # hd-bet            # https://github.com/NeuroAI-HD/HD-BET
+    - -e git+https://github.com/MIC-DKFZ/HD-BET#egg=HD-BET
+    # HD-GLIO   https://github.com/NeuroAI-HD/HD-GLIO
+    - hd_glio             # https://github.com/NeuroAI-HD/HD-GLIO
+
+## Guidelines for the environmnet
+
+# Creating environment
+# conda env create -f environment-brats.yml
+
+# Activating the environment
+# conda activate elmed219-brats
+
+# To make a ELMED219-BRATS kernel:
+# python -m ipykernel install --user --name elmed219-brats --display-name "ELMED219-BRATS"
+
+# To update the elmed219-brats conda environment:
+# conda env update -f environment-brats.yml
+
+# To remove and reinstall the elmed219-brats environment (if installation problems):
+# conda deactivate
+# conda env remove -n elmed219-brats
+
+# Recreating the environment
+# conda env create -f environment-brats.yml
