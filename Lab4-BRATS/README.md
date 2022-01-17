@@ -122,7 +122,7 @@ _A typical segmentation example with predicted labels overlaid overT1c MRI axial
 
 ## Jupyter Notebooks
 
-[ELMED219-2022-Lab4-BRATS-segmentation-3D-MONAI.ipynb](https://nbviewer.org/github/MMIV-ML/ELMED219-2022/blob/main/Lab4-BRATS/ELMED219-2022-Lab4-BRATS-segmentation-3D-MONAI.ipynb)
+[ELMED219-2022-Lab4-BRATS-segmentation-3D-MONAI.ipynb](https://nbviewer.org/github/MMIV-ML/ELMED219-2022/blob/main/Lab4-BRATS/ELMED219-2022-Lab4-BRATS-segmentation-3D-MONAI.ipynb) [![Google Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/MMIV-ML/ELMED219-2022/blob/main/Lab4-BRATS/ELMED219-2022-Lab4-BRATS-segmentation-3D-MONAI.ipynb)
 
 ## Your turn!
 
