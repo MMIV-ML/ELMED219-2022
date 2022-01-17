@@ -118,8 +118,7 @@ _A typical segmentation example with predicted labels overlaid overT1c MRI axial
 
 ## Slides and video recordings
 
-_TBA_
-
+[Lab4-slides](https://docs.google.com/presentation/d/e/2PACX-1vT4avpfR1NV-d8e8MIahsI_Mej6mHpVcW5TRJex_eGH6BMuZi9ONTHeG19gbsYYe8vFzoKwIm-f5CPK/pub?start=false&loop=false&delayms=3000)
 
 ## Jupyter Notebooks
 
