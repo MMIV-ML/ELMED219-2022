@@ -1,4 +1,4 @@
-# Lab 3: BRATS and multimodal MRI
+# Lab 4: BRATS and multimodal MRI
 
 This notebook is essentially a copy of the `brats_segmentation_3d.ipynb` notebook from https://github.com/Project-MONAI/tutorials. We will not have time for a detailed introduction to MONAI. Please consult the documentation: https://monai.io.
 
