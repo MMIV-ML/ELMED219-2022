@@ -1,4 +1,4 @@
-# Lab 3: BRATS and multimodal MRI
+# Lab 4: BRATS and multimodal MRI
 
 This notebook is essentially a copy of the `brats_segmentation_3d.ipynb` notebook from https://github.com/Project-MONAI/tutorials. We will not have time for a detailed introduction to MONAI. Please consult the documentation: https://monai.io.
 
@@ -118,7 +118,12 @@ _A typical segmentation example with predicted labels overlaid overT1c MRI axial
 
 ## Slides and video recordings
 
-[Lab4-slides](https://docs.google.com/presentation/d/e/2PACX-1vT4avpfR1NV-d8e8MIahsI_Mej6mHpVcW5TRJex_eGH6BMuZi9ONTHeG19gbsYYe8vFzoKwIm-f5CPK/pub?start=false&loop=false&delayms=3000)
+[ELMED219-2022-Lab4-slides](https://docs.google.com/presentation/d/e/2PACX-1vT4avpfR1NV-d8e8MIahsI_Mej6mHpVcW5TRJex_eGH6BMuZi9ONTHeG19gbsYYe8vFzoKwIm-f5CPK/pub?start=false&loop=false&delayms=3000)
+
+[ELMED219-2022-Lab4-PDF-slides](../assets/PDF-slides/9-ELMED219-2022-Lab4-BraTS-mpMRI.pdf)
+
+[ELMED219-2022-Lab4-Video](https://youtu.be/NCJhkRGcOhsg)
+
 
 ## Jupyter Notebooks
 
