@@ -12,7 +12,7 @@ We meet concepts such as **big data**, **data analysis**, **machine learning**, 
 
 This repository contains most of the course material. Students enrolled in the course will also find some practical information at [MittUiB](https://mitt.uib.no/courses/33274).
 
-A presentation and reflection on the course (aimed for the "Kunstig intelligens i norsk helsetjeneste ([KIN](https://ehealthresearch.no/kin))" network meeting, February 8th 2022) is found [here](https://docs.google.com/presentation/d/e/2PACX-1vQ2goLSZsIjeCQrjUnA4lfnXe2wgsgDpUXWe8be4K_pTqo4OD9qELxDlJyKknYVdCjJ34-Q4gcu-yYx/pub?start=false&loop=false&delayms=3000).
+A presentation and reflection on the course (aimed for the "**Kunstig intelligens i norsk helsetjeneste** ([KIN](https://ehealthresearch.no/kin))" network meeting, February 8th 2022) is found [here](https://docs.google.com/presentation/d/e/2PACX-1vQ2goLSZsIjeCQrjUnA4lfnXe2wgsgDpUXWe8be4K_pTqo4OD9qELxDlJyKknYVdCjJ34-Q4gcu-yYx/pub?start=false&loop=false&delayms=3000).
 
 <img src="./assets/questions.jpg" width="70">
 
